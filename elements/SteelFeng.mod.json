@@ -1,0 +1,62 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "steelfeng",
+    "customModelName": "Ranged item",
+    "customProperties": {},
+    "states": [],
+    "name": "Steel Dust",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Mysteriouscraftsmanship"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "§9SteelFeng",
+        "§9Mysterious dust"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onCrafted": {
+      "name": "SteelIngotDangWuPinBeiHeChengHuoShaoLianShi"
+    },
+    "onFinishUsingItem": {
+      "name": "SteelIngotWanJiaWanChengShiYongWuPinShi"
+    },
+    "enableRanged": true,
+    "shootConstantly": true,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": -10,
+    "saturation": -1.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": true,
+    "animation": "eat"
+  }
+}

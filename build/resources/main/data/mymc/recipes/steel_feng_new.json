@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mymc:steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "mymc:steel_feng",
+    "count": 9
+  }
+}

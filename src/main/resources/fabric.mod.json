@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mymc",
+  "version": "1.0.0",
+  "name": "MyMc",
+  "authors": [
+    "ahqj2209, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.mymc.MymcMod"
+    ],
+    "client": [
+      "net.mcreator.mymc.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "mymc.mixins.json"
+  ]
+}

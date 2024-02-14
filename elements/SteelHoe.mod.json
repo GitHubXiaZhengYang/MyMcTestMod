@@ -1,0 +1,40 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "steel_hoe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Steel Hoe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Mysteriouscraftsmanship"
+    },
+    "harvestLevel": 20,
+    "efficiency": 24.0,
+    "attackSpeed": 1.0,
+    "enchantability": 140,
+    "damageVsEntity": 20.0,
+    "usageCount": 6280,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:SteelIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true,
+    "onCrafted": {
+      "name": "SteelIngotDangWuPinBeiHeChengHuoShaoLianShi"
+    }
+  }
+}
