@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "mymc",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "name": "MyMc",
   "authors": [
-    "ahqj2209, MCreator"
+    "Mr.X, MCreator"
   ],
   "contact": {
     "homepage": "https://mcreator.net",

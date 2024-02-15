@@ -88,9 +88,9 @@ public class SteelFengItem extends Item {
 				Arrow projectile = new Arrow(world, entity);
 				projectile.shootFromRotation(entity, entity.getXRot(), entity.getYRot(), 0, 3.15f, 1.0F);
 				world.addFreshEntity(projectile);
-				world.playSound(null, entity.getX(), entity.getY(), entity.getZ(), ForgeRegistries
-						.SOUND_EVENTS.getValue(new ResourceLocation("entity.arrow.shoot")),
-						SoundSource.PLAYERS, 1, 1f / (world.getRandom().nextFloat() * 0.5f + 1));
+//				world.playSound(null, entity.getX(), entity.getY(), entity.getZ(), ForgeRegistries
+//						.SOUND_EVENTS.getValue(new ResourceLocation("entity.arrow.shoot")),
+//						SoundSource.PLAYERS, 1, 1f / (world.getRandom().nextFloat() * 0.5f + 1));
 				itemstack.hurtAndBreak(1, entity, e -> e.broadcastBreakEvent(entity.getUsedItemHand()));
 				if (player.getAbilities().instabuild) {
 					projectile.pickup = AbstractArrow.Pickup.CREATIVE_ONLY;

@@ -1,6 +1,6 @@
 {
   "item.mymc.steel_shovel": "Steel Shovel",
-  "item_group.mymc.mysteriouscraftsmanship": "Mysteriouscraftsmanship",
+  "item_group.mymc.mysteriouscraftsmanship": "Mysterious",
   "item.mymc.steel_pickaxe": "Steel Pickaxe",
   "item.mymc.steel_axe": "Steel Axe",
   "advancements.mysterious_metal.title": "Mysterious Metal",
@@ -13,6 +13,6 @@
   "item.mymc.steel_armor_boots": "Steel Boots",
   "item.mymc.steel_hoe": "Steel Hoe",
   "item.mymc.steel_feng": "Steel Dust",
-  "advancements.mysterious_metal_begin.descr": "Mysterious Metal Begin",
+  "advancements.mysterious_metal_begin.descr": "Compose SteelDust",
   "item.mymc.steel_armor_helmet": "Steel Helmet"
 }
