@@ -1,0 +1,18 @@
+{
+  "item.mymc.steel_shovel": "钢锹",
+  "item_group.mymc.mysteriouscraftsmanship": "神秘工艺",
+  "item.mymc.steel_pickaxe": "钢镐",
+  "item.mymc.steel_axe": "钢斧",
+  "advancements.mysterious_metal.title": "神秘工艺",
+  "item.mymc.steel_sword": "钢剑",
+  "item.mymc.steel_armor_chestplate": "钢胸甲",
+  "advancements.mysterious_metal_begin.title": "神秘工艺的开端",
+  "item.mymc.steel_ingot": "钢锭",
+  "item.mymc.steel_armor_leggings": "钢护腿",
+  "advancements.mysterious_metal.descr": "合成钢锭",
+  "item.mymc.steel_armor_boots": "钢靴",
+  "item.mymc.steel_hoe": "钢锄",
+  "item.mymc.steel_feng": "钢粉",
+  "advancements.mysterious_metal_begin.descr": "合成钢粉",
+  "item.mymc.steel_armor_helmet": "钢盔"
+}
